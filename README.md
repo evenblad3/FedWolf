@@ -39,10 +39,11 @@ Results in ./Results
 
 ### Citation
 ```
-@inproceedings{
-fedwolf,
-title={Dynamic Adaptive Federated Learning on Local Long-Tailed Data},
-author={Juncheng Pu, Xiaodong Fu, Hai Dong, Pengcheng Zhang, and Li Liu},
-year={2023}
+@article{pu2024dynamic,
+  title={Dynamic Adaptive Federated Learning on Local Long-Tailed Data},
+  author={Pu, Juncheng and Fu, Xiaodong and Dong, Hai and Zhang, Pengcheng and Liu, Li},
+  journal={IEEE Transactions on Services Computing},
+  year={2024},
+  publisher={IEEE}
 }
 ```
